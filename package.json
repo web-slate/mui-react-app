@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/web-slate/mui-react-app/issues"
   },
-  "homepage": "https://github.com/web-slate/mui-react-app#readme"
+  "homepage": "https://github.com/web-slate/mui-react-app#readme",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
 }
