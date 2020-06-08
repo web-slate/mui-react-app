@@ -1,0 +1,20 @@
+{
+  "name": "mui-react-app",
+  "version": "1.0.0",
+  "description": "Create Configurable React Material App with Good Practices for Production Ready in 5 Mins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-slate/mui-react-app.git"
+  },
+  "keywords": [],
+  "author": "Venkatraman <ramsunvtech@gmail.com> (https://in.linkedin.com/in/venkatarchitect)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-slate/mui-react-app/issues"
+  },
+  "homepage": "https://github.com/web-slate/mui-react-app#readme"
+}
